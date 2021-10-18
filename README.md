@@ -18,13 +18,13 @@ The following **required** functionality is completed:
 The following **extensions** are implemented:
 
 * [X] Custom colors palette selected
-* [ ] List anything else that you did to improve the app functionality or design!
+* [X] Emojis used for tip description instead of words
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/ejHRDXc.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
